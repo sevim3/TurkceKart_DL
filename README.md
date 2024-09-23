@@ -10,7 +10,7 @@
 ![screen1](https://github.com/user-attachments/assets/fcec0e63-33be-4cab-9916-91bf5b336e5d)
 
 
-### チェックマークのみの画面、お気に入りのみの画面、単語帳画面
+### 「チェック」フィルター、「お気に入り」フィルター、単語帳画面
 ![screen2](https://github.com/user-attachments/assets/5f16f03d-c94e-4d9f-8685-74f66e46dbf8)
 
 ## 機能補足
